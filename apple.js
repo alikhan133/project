@@ -1,0 +1,1 @@
+let nam = prompt("sasasa");
